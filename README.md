@@ -14,6 +14,8 @@ Welcome to the Weather App! This web application allows users to check the weath
 ## Introduction
 
 The Weather App is a simple and elegant web application designed to provide real-time weather updates for any location. With a user-friendly interface, users can quickly check the current weather, temperature, humidity, and wind speed.
+![image](https://github.com/rajanarahul93/Weather-App/assets/123227543/47492e4c-d2aa-4266-baa0-f784135fb007)
+
 
 ## Features
 
